@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+header {
+  display: none;
+}
+
+body {
+  font-family: 'Outfit', Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #033236;
+}
+
+h1 {
+  font-family: 'Source Serif 4', Arial, sans-serif;
+  font-size: 42x;
+  font-weight: 300;
+  color: #033236;
+}
+
+h3 {
+  font-family: 'Source Serif 4', Airal, sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  color: #1597AF;
+}
