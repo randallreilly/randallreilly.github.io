@@ -13,7 +13,8 @@ body {
 }
 
 a:link {
-  ???;
+  target-name: new;
+  target-new: tab;
   color: blue;
   text-decoration: underline;
 }
