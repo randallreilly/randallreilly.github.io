@@ -12,6 +12,16 @@ body {
   color: #033236;
 }
 
+a:link {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: blue;
+  text-decoration: underline;
+}
+
 h1 {
   font-family: 'Source Serif 4', Arial, sans-serif;
   font-size: 42px;
